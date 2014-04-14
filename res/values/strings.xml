@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Alyoshina O.</string>
+    <string name="action_upload">Upload Texture</string>
+    <string name="action_change">Change Texture</string>
+</resources>

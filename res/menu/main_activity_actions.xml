@@ -1,0 +1,11 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item android:id="@+id/action_upload"
+          android:title="@string/action_upload"
+          android:showAsAction="withText"/>
+
+    <item android:id="@+id/action_change"
+          android:title="@string/action_change"
+          android:showAsAction="withText"/> 
+    
+</menu>
